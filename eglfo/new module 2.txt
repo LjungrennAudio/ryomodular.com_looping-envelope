@@ -1,0 +1,35 @@
+4 sections, identical except a/b/c/d labelling:
+					
+------------------				    ----------------
+	O		switch			    1SHOT/CYCL/SEQ A  <<<
+							   v
+O		O	knobs			  a A	   v	  r A	^
+							   v		^
+o	O	o	LED/socket/LED		v green  EO A  >> amber ^	
+						v
+O		O	sockets			>>TRIG A  >>>	  OUT A >	
+-----------------				    ----------------
+	O		switch			    1SHOT/CYCL/SEQ B  <<<
+						 	   v
+O		O	knobs			  a B	   v	  r B	^
+							   v		^		   
+o	O	o	LED/socket/LED		v green   EO B >> amber ^
+						v	
+O		O	sockets			>>TRIG B  >>>	  OUT B >
+-----------------				    ----------------		
+	O		switch			    1SHOT/CYCL/SEQ C  <<<
+							   v
+O		O	knobs			  a C	   v	  r C	^
+							   v		^
+o	O	o	LED/socket/LED		v green  EO C  >> amber ^
+						v	
+O		O	sockets			>>TRIG C  >>>	  OUT C >
+-----------------				    -----------------		
+	O		switch			    1SHOT/CYCL/SEQ D  <<<
+							   v
+O		O	knobs			 a D	   v	  r D	^
+							   v		^
+o	O	o	LED/socket/LED		v green  EO D  >> amber ^
+						v
+O		O	sockets			>>TRIG D  >>>	  OUT D >
+-----------------				    -----------------
