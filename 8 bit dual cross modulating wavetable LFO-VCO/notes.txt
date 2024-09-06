@@ -1,0 +1,36 @@
+Use arduino 8bit pwm output with rc filter as cheap ADC.
+
+common sync/tap tempo
+common pot for coarse frequency
+cv control of coarse frequency (1v/o + lin/exp = 2 jacks, 1 att, 1 switch lin/exp)
+mix out 
+min out
+max out
+difference out
+ringmod out (digital, no inputs)
+
+2 osc with cross modulation
+each osc have:
+1 pot for detune/fine frequency
+cv control of detune/fine frequency (1 jack, 1 att)
+1 out with selectable waveform
+1 pot to select waveform
+cv control of waveform select (1 jack, pot above act att)
+1 pot to waveshape 
+cv control of waveshape (1 jack, pot above act att)
+1 pot for clock/sync divide/mult
+cv control of div/mult (1 jack, pot above act att)
+1 pot for fm amount from the other osc
+cv control of fm amount (1 jack, pot above act att)
+clock out 50% duty cycle
+
+----
+total
+----
+buttons 1
+jacks 22
+pots 14
+leds 2
+switches 1
+
+20hp?
