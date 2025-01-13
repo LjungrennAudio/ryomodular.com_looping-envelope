@@ -1,0 +1,4 @@
+gate <- retrig
+trig
+shape
+cv on shape
